@@ -1,0 +1,7 @@
+https://machinelearningmastery.com/implement-random-forest-scratch-python/
+
+https://towardsdatascience.com/master-machine-learning-random-forest-from-scratch-with-python-3efdd51b6d7a
+
+https://www.youtube.com/watch?v=WvmPnGmCaIM
+
+https://www.youtube.com/watch?v=Oq1cKjR8hNo
